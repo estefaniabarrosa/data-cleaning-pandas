@@ -1,2 +1,2 @@
 # Quest-Shark-Attacks
-mmini project
+mini project
