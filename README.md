@@ -73,3 +73,12 @@ A clean and elegant data preprocessing project focused on transforming raw shark
 <p align="center">
   <b><span style="font-size:18px;">Clean Data → Better Insights → Smarter Decisions</span></b>
 </p>
+# Shark Attack Data Analysis
+
+This project focuses on cleaning and analyzing a dataset of shark attacks to support business decisions related to surf location expansion.
+
+## Phase 1
+Data familiarization and initial exploration of the dataset.
+
+## Dataset
+Global Shark Attack File (GSAF)
